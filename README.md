@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabryel</h1>
 <h3 align="center">I'm a passionate full stack developer from Singapore!</h3>
 
-- 🔭 I’m currently working on **Django-Rest-Restaurant**
+- 🔭 I’m currently working on **WayFare**
 
-- 🌱 I’m currently learning **Django | TensorFlow**
+- 🌱 I’m currently learning **Django | MDC Android in Java**
 
 - 📫 How to reach me **gabryelsoh@gmail.com**
 
