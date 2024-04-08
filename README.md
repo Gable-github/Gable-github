@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WayFare**
 
-- 🌱 I’m currently learning **WayFare | MDC Android in Java** 
+- 🌱 I’m currently learning **WayFare | MDC Android in Java**
 
 - 📫 How to reach me **gabryelsoh@gmail.com**
 
