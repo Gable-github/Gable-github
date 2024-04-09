@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabryel</h1>
 <h3 align="center">I'm a passionate full stack developer from Singapore!</h3>
 
-- 🔭 I’m currently working on **WayFare**
+- 🔭 I’m currently working on **WayFare** 
 
 - 🌱 I’m currently learning **WayFare | MDC Android in Java**
 
