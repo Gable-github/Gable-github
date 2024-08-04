@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 <strong>My name is Gabryel and I'm an always curious software developer!</strong><br><br>
 🔭 I’m currently working on building a MERN application to exchange bank points to 3rd party loyalty program points.<br>
 🔭 I'm currently very interested in database design, microservices, testing and contributing to open source projects! :)
