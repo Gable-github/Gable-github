@@ -3,8 +3,8 @@
   I'm Gabryel. I'm a CS Junior and I love building and learning about backend applications / development.
 </strong>
 <br>
-* I’m currently working on building a Springboot authentication and authorization microservice so I don't have to deal with that for future projects.<br>
-* I'm currently very interested in database design, microservices and contributing to open source projects (tooling) around those for the stacks I use :)
+- I’m currently working on building a Springboot authentication and authorization microservice so I don't have to deal with that for future projects.<br>
+- I'm currently very interested in database design, microservices and contributing to open source projects (tooling) around those for the stacks I use :)
  
 # 💻 Tech Stack
 Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
