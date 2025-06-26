@@ -1,6 +1,6 @@
 # Hey there!
 <strong>
-  I'm Gabryel. I'm a CS Junior and I love building and learning about backend applcations / development.
+  I'm Gabryel. I'm a CS Junior and I love building and learning about backend applications / development.
 </strong>
 <br>
 * I’m currently working on building a Springboot authentication and authorization microservice so I don't have to deal with that for future projects.<br>
